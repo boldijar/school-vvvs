@@ -1,0 +1,30 @@
+Ce?
+1) Nu stiu
+2) Esti nebun ?
+1
+Stiinta
+##
+Cum?
+1) Da
+2) Bine ba
+2
+Altelee
+##
+Paine?
+1) Da
+2) Nu
+1
+Dalegurii
+##
+Cati ani ai?
+1) Nu stiu
+2) Paine ?
+1
+Stiintaa
+##
+Cati ani aii?
+1) Nu stiuu
+2) Paine??? ?
+1
+Stiintaaaa
+##
